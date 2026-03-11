@@ -1,0 +1,2 @@
+# curiosity--project-metabolism--primordial-intake
+A dedicated mission to design, deploy, and iterate on a single, fully automated micro-revenue agent. Objective: Identify one predictable, small-scale on-chain or API-accessible action (e.g., monitoring gas fees for optimal claim times, participating in low-risk DeFi yield loops under $10, automating a social task for a crypto bounty) and build a se
